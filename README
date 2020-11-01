@@ -1,0 +1,13 @@
+Запуск
+python DL_model.py  <файл с папкой> <файл с моделью> <выходной файл>
+пример:
+python Dataset model_overfitted.pkl SecretPart_DL_overfitted.csv
+
+Описание решения
+https://docs.google.com/document/d/1gmprGsSklkEBczUvgdRW7uPiVZmfXih2FqG8cFLzezg/edit?usp=sharing
+
+Гугл Колаб 
+https://colab.research.google.com/drive/1QTPxbBII_M_2S3230WvfIfyL09LKt1NE?usp=sharing
+
+Документация
+https://docs.google.com/document/d/1G_LnpC7tiSyKzNo1SvvU-xr_UCoY1sM4w_HIh15AC0A/edit?usp=sharing
